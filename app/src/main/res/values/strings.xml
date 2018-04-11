@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">ImageLoading</string>
+    <string name="info">Info</string>
+    <string name="ok">Ok</string>
+    <string name="need_read_storage_permission">You need storage read permission!</string>
+    <string name="clear_cache">Clear memory and disk cache</string>
+    <string name="image_list_loading">Loading Image lists from website</string>
 </resources>
